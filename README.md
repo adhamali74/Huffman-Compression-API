@@ -1,3 +1,5 @@
+
+![Project Logo](https://forum.huawei.com/enterprise/api/file/v1/small/thread/707870297941741568.png?appid=esc_en)
 # Huffman-Compression-API
 Designed and implemented a Huffman Compression API in C/C++, leveraging advanced data structures and algorithms
 Key Achievements:
